@@ -1,0 +1,7 @@
+operation_id,client,counterparty,date,purpose,debit_amount,credit_amount,court_claim_date
+1,OOO Romashka,OOO Postavka,2026-01-10,Оплата поставки товара,100000,0,2026-01-20
+2,OOO Romashka,IP Ivanov,2026-01-15,Возврат аванса,0,50000,2026-01-20
+3,OOO Romashka,OOO Postavka,2026-01-16,Оплата поставки товара,100000,0,2026-01-20
+4,OOO Romashka,AO Logistika,2026-01-19,Транспортные услуги,20000,0,2026-01-20
+5,OOO Romashka,IP Petrov,2026-01-22,Консультационные услуги,350000,0,2026-01-20
+6,OOO Romashka,OOO Service,2026-01-25,Абонентское обслуживание,15000,0,2026-01-20
